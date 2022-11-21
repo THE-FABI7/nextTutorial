@@ -6,8 +6,6 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-
-
 h1 {
   font-family: var("--font-grotesk"), sans-serif;
 }
@@ -17,7 +15,6 @@ body {
   max-width: 800px;
   margin: 0 auto;
 }
-
 
 a {
   color: inherit;
