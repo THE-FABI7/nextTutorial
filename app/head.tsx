@@ -1,3 +1,7 @@
+/**
+ * Devuelve un fragmento de React que contiene un título, una metaetiqueta y una etiqueta de enlace
+ * @returns Un componente de reacción
+ */
 export default function Head() {
   return (
     <>
