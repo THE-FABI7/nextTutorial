@@ -1,6 +1,7 @@
 import Link from "next/link";
 import styles from "./Navigation.module.css";
 
+/* Creación de una matriz de objetos. */
 const link = [
   {
     label: "Home",
