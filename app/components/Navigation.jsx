@@ -9,10 +9,11 @@ const link = [
   {
     label: "About",
     route: "/about",
-  },{
+  },
+  {
     label: "Posts",
     route: "/posts",
-  }
+  },
 ];
 
 /**
@@ -24,7 +25,7 @@ export function Navigation() {
   return (
     <header className={styles.header}>
       <nav>
-        <ul className={styles.Navigation}>
+        <ul className={styles.navigation}>
           {link.map(({ label, route }) => (
             <li key={route}>
               <Link href={route}>{label}</Link>
