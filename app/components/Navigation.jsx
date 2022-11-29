@@ -14,7 +14,7 @@ const link = [
   {
     label: "Posts",
     route: "/posts",
-  },
+  }
 ];
 
 /**
